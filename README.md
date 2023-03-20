@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio del numero2 del PrepCuorse Henry
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde hithub  a mi computadora
